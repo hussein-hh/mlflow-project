@@ -1,23 +1,28 @@
 # Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
 .env
 .venv
 mlenv/
 
-# MLflow
+# MLflow tracking data
 mlruns/
+
+# Logs
 *.log
 logs/
 
-# Jupyter/IPython
-.ipynb_checkpoints
+# Jupyter checkpoints
+.ipynb_checkpoints/
 
-# Data
-data/*.csv
-
-# OS
+# OS files
 .DS_Store
 Thumbs.db
+
+# Virtual environments (alternative names)
+env/
+venv/
+
+# Ignore everything in data/ except our real dataset
+data/*
+!data/mansour-realestate.csv
