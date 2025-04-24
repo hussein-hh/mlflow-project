@@ -1,0 +1,131 @@
+ID,listing_date,type,category,Bedrooms,bathrooms,balcony,sqmt_living,floors,condition,furnished,year_built,area_type,floor_apartment,neighbourhood,county,view,frontage,rent_price_usd,final_rent_price_usd
+1,2024-07-27,adu,rent,3,1,,120,1,old,no,,unknown,,,mansour,,,3000,3000
+2,2024-07-27,house,rent,3,1,,100,,good,,,unknown,,,mansour,corner,,2000,2000
+3,2024-07-27,house,rent,5,3,,600,2,good,no,,unknown,,,mansour,highway,,3000,3000
+4,2024-07-26,apartment,rent,1,1,,90,1,good,fully,,unknown,,,mansour,,,1200,1200
+5,2024-07-28,house,rent,3,3,,100,2,new,half,2023,unknown,,,mansour,neighbourhood,7,4000,4000
+6,2024-07-26,apartment,rent,2,1,,100,1,good,no,,unknown,,,mansour,,,,800
+10,2024-08-02,apartment,rent,3,1,,155,1,new,,,unknown,,,mansour,,,900,900
+13,2024-01-15,apartment,rent,2,1,,100,1,good,fully,,unknown,3,,mansour,neighbourhood,,1600,1600
+14,2023-12-21,apartment,rent,2,1,,100,1,good,fully,,unknown,2,,mansour,,11.5,1160,1160
+20,2024-04-26,apartment,rent,2,1,,130,1,good,no,,unknown,1,daragh,mansour,neighbourhood,,700,700
+22,2024-05-05,apartment,rent,2,2,,,,,,,unknown,3,,mansour,,,500,500
+23,2023-09-11,house,rent,,,,375,,good,,,unknown,,rafidain bank/ 607,mansour,neighbourhood,15,5000,5000
+26,2023-11-21,house,rent,12,3,,,,new,,,unknown,,609 tabo street,mansour,,13.25,5000,5000
+36,2024-07-31,adu,rent,3,2,,120,1,good,no,2023,unknown,,dawoodi,mansour,,,1240,1240
+37,2024-07-29,house,rent,6,3,,210,2,good,no,,unknown,,behind babylon mall,mansour,,,,2610
+38,2024-07-29,house,rent,3,2,,130,,good,half,2017,unknown,,,mansour,neighbourhood,,1300,1300
+39,2024-07-26,adu,rent,2,2,,60,2,good,half,,unknown,,beiji,mansour,neighbourhood,,,1000
+40,2024-07-21,house,rent,6,6,,400,,good,no,2019,unknown,,dawoodi,mansour,,10,4500,4500
+41,2024-07-17,house,rent,3,3,,200,2,good,no,2019,unknown,,,mansour,,,,1160
+42,2024-07-16,house,rent,4,3,,100,3,new,no,2023,unknown,,alarabi,mansour,,,,1450
+43,2024-07-12,adu,rent,2,2,,75,2,new,half,2019,unknown,,alarabi,mansour,neighbourhood,,,1000
+44,2024-07-06,house,rent,4,3,,150,3,new,half,2021,unknown,,almutanabi,mansour,neighbourhood,,,1546.666667
+45,2024-07-06,house,rent,2,2,,130,1,good,no,2019,unknown,,daragh,mansour,neighbourhood,,,800
+46,2024-06-28,house,rent,4,3,,150,2,new,no,2023,unknown,,,mansour,,,1300,1300
+47,2024-06-28,house,rent,4,3,,150,2,new,,2023,unknown,,,mansour,,,1700,1700
+48,2024-06-28,house,rent,5,4,,400,2,new,,2023,unknown,,behind hajji husien,mansour,,,2500,2500
+49,2024-06-28,house,rent,5,4,,400,2,good,,,unknown,,daragh,mansour,,,2000,2000
+50,2024-06-27,house,rent,5,7,,440,3,good,fully,,unknown,,dawoodi,mansour,neighbourhood,11,10000,10000
+51,2024-06-27,house,rent,4,4,,200,2,good,no,2020,unknown,,14 ramadan street,mansour,,,1600,1600
+52,2024-06-26,house,rent,3,2,,68,3,new,no,2023,unknown,,jamiaa,mansour,neighbourhood,7.5,1000,1000
+53,2024-06-25,house,rent,2,1,,100,2,old,fully,2004,unknown,,dawoodi,mansour,neighbourhood,,,733.3333333
+54,2024-06-14,house,rent,2,2,,150,2,new,no,2023,unknown,,dawoodi,mansour,,,,1200
+55,2024-06-12,house,rent,4,4,,400,2,new,no,2023,unknown,,dawoodi,mansour,,,,2416.666667
+56,2024-06-08,house,rent,4,4,,150,3,good,no,,unknown,,almutanabi,mansour,,,,1740
+57,2024-06-08,house,rent,5,3,,400,2,good,no,2021,unknown,,almutanabi,mansour,,,,2126.666667
+58,2024-06-04,adu,rent,3,3,,100,3,new,no,2021,unknown,,14 ramadan,mansour,neighbourhood,,,1333.333333
+59,2024-06-03,house,rent,4,3,,150,,new,no,2023,unknown,,almutanabi,mansour,neighbourhood,,,1643.333333
+60,2024-06-03,house,rent,4,3,,270,2,good,half,2021,unknown,,,mansour,,,,1666.666667
+61,2024-08-01,apartment,rent,2,1,,100,1,good,fully,2023,unknown,,dawoodi,mansour,,,,1000
+62,2024-07-31,apartment,rent,3,2,2,187,1,new,half,2023,urban,7,mansour city,mansour,,,,1000
+63,2024-07-31,apartment,rent,1,1,,80,1,good,fully,2021,suburb,2,dawoodi,mansour,,,,733.3333333
+64,2024-07-31,apartment,rent,1,1,,90,1,good,fully,2023,suburb,1,,mansour,,,,870
+65,2024-07-16,apartment,rent,2,1,,110,1,new,no,2021,suburb,1,,mansour,,,,0.6766666667
+66,2024-07-29,apartment,rent,3,2,2,173,1,new,half,2023,urban,2,mansour city,mansour,,,,966.6666667
+67,2024-07-28,apartment,rent,2,1,1,80,1,old,no,2021,suburb,1,,mansour,,,,500
+68,2024-07-27,apartment,rent,2,1,,80,1,new,no,2021,suburb,2,beiji,mansour,,,,500
+69,2024-07-26,apartment,rent,2,1,,100,1,good,no,2021,suburb,1,alarabi,mansour,,,,766.6666667
+70,2024-07-25,apartment,rent,2,1,,150,1,,no,2021,suburb,1,,mansour,,,,600
+71,2024-07-22,apartment,rent,2,1,,90,1,new,no,2023,suburb,1,,mansour,,,,733.3333333
+72,2024-07-21,apartment,rent,1,1,,65,1,good,fully,2021,suburb,2,ameerat,mansour,,,,900
+73,2024-07-20,apartment,rent,1,1,,75,1,old,half,2021,suburb,2,قرب مطعم طبق المندي,mansour,,,,333.3333333
+74,2024-07-20,apartment,rent,2,1,,100,1,good,fully,2021,suburb,1,almutanabi,mansour,,,,1063.333333
+75,2024-07-20,apartment,rent,1,1,,90,1,new,fully,2023,suburb,,,mansour,,,,1160
+76,2024-07-19,apartment,rent,2,2,,200,1,new,fully,2023,suburb,2,,mansour,,,,1546.666667
+77,2024-07-18,apartment,rent,2,1,,90,1,new,fully,2023,suburb,3,,mansour,,,,1256.666667
+78,2024-07-18,apartment,rent,2,1,,100,1,new,no,2023,suburb,1,alarabi,mansour,,,,766.6666667
+79,2024-07-18,apartment,rent,2,1,,100,1,good,fully,2021,suburb,2,,mansour,,,,900
+80,2024-07-16,apartment,rent,2,1,1,100,1,new,no,2023,suburb,1,almutanabi,mansour,,,,966.6666667
+81,2024-07-16,apartment,rent,2,1,,110,1,good,fully,2021,suburb,1,dawoodi,mansour,,,,1256.666667
+82,2024-07-14,apartment,rent,2,1,,100,1,new,fully,2021,suburb,1,,mansour,,,,1160
+83,2024-07-14,apartment,rent,2,1,,100,1,new,fully,2023,suburb,2,almutanabi,mansour,,,,1546.666667
+84,2024-07-13,apartment,rent,2,1,,160,1,good,no,2021,suburb,2,dawoodi,mansour,,,,800
+85,2024-07-13,apartment,rent,2,1,,120,1,,half,2021,suburb,2,,mansour,,,700,700
+86,2024-08-01,apartment,rent,2,1,,100,1,good,fully,2021,suburb,1,,mansour,,,1300,1300
+87,2024-07-11,apartment,rent,3,2,,200,1,new,half,2023,suburb,1,dawoodi,mansour,,,,1500
+88,2024-07-11,apartment,rent,2,2,,100,1,new,fully,2023,suburb,0,daragh,mansour,,,,1200
+89,2024-07-09,apartment,rent,3,2,1,200,1,new,half,2023,suburb,1,dawoodi,mansour,north,,,1450
+90,2024-07-09,apartment,rent,2,1,1,100,1,new,fully,2023,suburb,1,,mansour,,,,1450
+91,2024-07-09,apartment,rent,2,1,,150,1,new,no,2023,suburb,0,,mansour,north,,,666.6666667
+92,2024-07-08,apartment,rent,2,1,1,110,1,new,no,2023,suburb,2,,mansour,,,,600
+93,2024-07-06,apartment,rent,2,1,,100,1,new,fully,2021,suburb,0,,mansour,north,,,1200
+94,2024-07-05,apartment,rent,3,2,1,187,1,new,half,2023,urban,7,mansour city,mansour,north,,,966.6666667
+95,2024-07-05,apartment,rent,1,1,1,80,1,,fully,2017,suburb,1,,mansour,,,,566.6666667
+96,2024-07-02,apartment,rent,2,1,,200,1,,no,2021,suburb,2,,mansour,,,,773.3333333
+97,2024-06-26,apartment,rent,4,1,,160,`,,no,2004,suburb,1,,mansour,,,,433.3333333
+98,2024-06-26,apartment,rent,1,1,,108,1,new,no,2021,suburb,,,mansour,neighbourhood,,,800
+99,2024-06-25,apartment,rent,2,1,,100,1,new,fully,2021,suburb,1,,mansour,west,,1200,1200
+100,2024-06-24,apartment,rent,1,2,,50,1,new,no,2021,suburb,3,dawoodi,mansour,,,,533.3333333
+101,2024-06-24,apartment,rent,2,1,,150,1,,,,suburb,,beiji,mansour,,,,666.6666667
+102,2024-06-21,apartment,rent,2,1,,120,1,,,,suburb,,,mansour,,,900,900
+103,2024-06-14,apartment,rent,2,2,,125,1,new,no,2023,suburb,1,dawoodi,mansour,north,,,800
+104,2024-06-12,apartment,rent,2,1,,123,1,new,,2023,suburb,,daragh,mansour,,,,666.6666667
+105,2024-06-12,apartment,rent,2,1,,1001,1,new,,2023,suburb,1,mohandeseen,mansour,north,,1300,1300
+106,2024-08-20,apartment,rent,3,1,,200,1,new,no,2023,suburb,0,beiji,mansour,north,,,1200
+107,2024-08-20,apartment,rent,1,1,1,70,1,,fully,2023,suburb,1,mutanabi,mansour,,,,870
+108,2024-08-19,apartment,rent,2,1,,120,1,good,no,2021,suburb,1,dawoodi,mansour,north,,,733.3333333
+109,2024-08-18,apartment,rent,2,2,1,100,1,,no,2023,suburb,2,,mansour,north,,,600
+110,2024-08-17,apartment,rent,3,2,1,150,1,new,half,2021,suburb,1,mutanabi,mansour,north,,,1300
+111,2024-08-17,apartment,rent,3,1,,180,1,new,no,2021,suburb,2,dawoodi,mansour,,,,966.6666667
+112,2024-08-17,apartment,rent,2,1,2,100,1,good,no,2017,suburb,1,,mansour,,,,666.6666667
+113,2024-08-17,apartment,rent,1,1,,50,1,,no,2021,suburb,0,,mansour,east,,,733.3333333
+114,2024-08-15,apartment,rent,2,2,,100,1,good,fully,2021,suburb,1,daragh,mansour,,,,1200
+115,2024-08-14,apartment,rent,3,1,,200,1,new,no,2023,suburb,1,beiji,mansour,north,,,1200
+116,2024-08-14,apartment,rent,2,1,,200,1,new,no,2021,suburb,1,arabi,mansour,north,,,666.6666667
+117,2024-08-08,apartment,rent,2,1,,100,1,good,half,2021,suburb,2,dawoodi,mansour,north,,,566.6666667
+118,2024-08-08,apartment,rent,2,2,,100,1,new,fully,2021,suburb,1,daragh,mansour,,,,966.6666667
+119,2024-09-10,apartment,rent,3,1,,200,1,new,no,2023,suburb,1,beiji,mansour,north,,,900
+120,2024-09-09,apartment,rent,3,2,,200,1,new,half,2023,suburb,1,dawoodi,mansour,north,,,1500
+121,2024-09-09,apartment,rent,2,2,,100,1,new,fully,2023,suburb,0,daragh,mansour,north,,,1200
+122,2024-09-05,apartment,rent,3,2,,200,1,new,half,2023,suburb,1,dawoodi,mansour,north,,,1450
+123,2024-09-05,apartment,rent,2,1,,162,1,new,no,2023,suburb,0,,mansour,,,900,900
+124,2024-09-01,apartment,rent,2,1,1,150,1,good,no,2021,suburb,1,mohandeseen,mansour,north,,,773.3333333
+125,2024-09-01,apartment,rent,1,1,,72,1,good,no,2021,suburb,0,mohandeseen,mansour,north,,,533.3333333
+126,2024-09-10,adu,rent,3,1,,200,1,new,no,2021,suburb,1,beiji,mansour,,,,900
+127,2024-08-29,apartment,rent,1,1,,90,1,good,fully,2023,suburb,0,,mansour,,,,870
+128,2024-08-29,apartment,rent,2,1,,100,1,good,half,2021,suburb,0,dawoodi,mansour,north,,,600
+129,2024-08-28,apartment,rent,3,2,1,187,1,new,half,2023,urban,7,mansour city,mansour,north,,,966.6666667
+130,2024-08-28,apartment,rent,,1,1,50,1,new,no,2023,suburb,3,dawoodi,mansour,,,,483.3333333
+131,2024-08-28,apartment,rent,2,1,1,120,1,new,no,2023,suburb,1,dawoodi,mansour,north,,,900
+132,2024-08-28,apartment,rent,2,1,,140,1,new,no,2023,suburb,1,,mansour,north,,,666.6666667
+133,2024-08-22,apartment,rent,1,1,,50,1,,no,2021,suburb,0,zohuur,mansour,east,,,733.3333333
+134,2024-08-20,apartment,rent,2,1,,100,1,new,no,2023,suburb,0,mahalle 607,mansour,,,,666.7333333
+135,2024-08-18,apartment,rent,2,1,,120,1,good,no,2021,suburb,0,dawoodi,mansour,north,,,733.3333333
+136,2024-08-28,apartment,rent,2,2,,150,3,new,half,2021,suburb,1,mutanabi,mansour,north,,,1300
+137,2024-08-17,apartment,rent,2,1,2,100,1,good,no,2017,suburb,1,mutanabi,mansour,west,,,666.6666667
+138,2024-08-28,adu,rent,2,2,,150,2,good,no,2021,suburb,,dawoodi,mansour,north,,,1300
+139,2024-09-10,adu,rent,3,3,,80,,new,no,2021,suburb,,alarabi,mansour,north,,,1000
+140,2024-09-10,house,rent,5,5,,360,,good,no,2004,suburb,,mutanabi,mansour,west,,,1866.666667
+141,2024-09-10,house,rent,3,2,,300,2,new,no,2023,suburb,,,mansour,north,,,1546.666667
+142,2024-09-05,adu,rent,2,2,1,150,2,new,no,2021,suburb,,dawoodi,mansour,north,,,1300
+143,2024-08-23,house,rent,5,3,1,210,2,good,no,2009,suburb,,alarabi,mansour,,,,2000
+144,2024-08-23,house,rent,3,3,1,200,2,new,no,2021,suburb,,,mansour,,,,1333.333333
+145,2024-08-23,adu,rent,2,2,,65,2,new,no,2023,suburb,,beiji,mansour,north,,,666.6666667
+146,2024-08-21,house,rent,4,3,1,300,2,good,no,2021,suburb,,mutanabi,mansour,,,,2900
+147,2024-08-20,house,rent,3,3,1,150,3,good,no,2021,suburb,,,mansour,west,,,773.3333333
+148,,apartment,rent,2,1,,100,,good,no,,suburb,,,mansour,,,,500
+151,2024-08-23,house,rent,,,,,,,,,suburb,,,mansour,,,,
+152,2024-08-23,house,rent,,,,,,,,,suburb,,,mansour,,,,
+153,2024-08-23,house,rent,,,,,,,,,unknown,,,mansour,,,,
+154,2024-08-23,house,rent,,,,,,,,,unknown,,,mansour,,,,
