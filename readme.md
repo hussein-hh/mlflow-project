@@ -109,14 +109,3 @@ MlflowClient().transition_model_version_stage(
     name="realestate_rf_model", version=1, stage="Production")
 PY
 ```
-
----
-
-## 6  Troubleshooting
-* **Missing columns error** → ensure you send `dataframe_records` with all feature names.  
-* **pyenv not found (Windows)** → always add `--env-manager=local` when serving.  
-* **Port already in use** → choose a different port (`1234`, `1235`, …).
-
----
-
-Enjoy exploring the full MLflow lifecycle! 🚀
